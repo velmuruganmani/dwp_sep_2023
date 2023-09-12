@@ -1,0 +1,9 @@
+
+2023-09-12 22:37:34 ERROR TicketServiceImpl:57 - payment completed for the account id 1234
+2023-09-12 22:37:34 ERROR TicketServiceImpl:59 - seats reserved for the account id 1234
+2023-09-12 22:37:34 ERROR TicketServiceImpl:78 - Atleast one Adult ticket should be purchased
+2023-09-12 22:37:34 ERROR TicketServiceImpl:45 - Atleast one ticket should be bought
+2023-09-12 22:37:34 ERROR TicketServiceImpl:52 - Total Number of tickets exceeded the purchase limit
+2023-09-12 22:37:34 ERROR TicketServiceImpl:52 - Total Number of tickets exceeded the purchase limit
+2023-09-12 22:37:34 ERROR TicketServiceImpl:40 - Invalid account id provided
+2023-09-12 22:37:34 ERROR TicketServiceImpl:87 - No of tickets can not be negative
